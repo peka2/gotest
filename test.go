@@ -11,5 +11,7 @@ func main() {
 
 	fmt.Printf("%d", suuji)
 
+
+
 	fmt.Printf(name)
 }
